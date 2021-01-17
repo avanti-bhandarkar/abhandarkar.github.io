@@ -3,6 +3,11 @@
   src: url('../fonts/Bondie.ttf') format('truetype');
 }
 
+@font-face {
+  font-family: "BS";
+  src: url('../fonts/BagnardSans.otf') format('opentype');
+}
+
 /* body format */
 html, body {
   font-family: "Poppins", sans-serif;
@@ -115,7 +120,7 @@ ul {
 }
 
 #big-asterisk {
-  font-family: Poppins;
+  font-family: BS;
   font-weight: 700;
   color: #E29578;
   font-size: 1.8vw;
