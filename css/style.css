@@ -2,14 +2,6 @@
   font-family: "Wellbotth";
   src: url('../fonts/Wellbotth.ttf') format('truetype');
 }
-/* @font-face {
-  font-family: "Bagnard";
-  src: url('../fonts/Bagnard.otf') format('opentype');
-}
-@font-face {
-  font-family: "Cotham Sans";
-  src: url('../fonts/CothamSans.otf') format('opentype');
-} */
 
 /* body format */
 html, body {
@@ -41,13 +33,13 @@ nav a:hover {
   color: #23221E;
 }
 
-#miranda {
+#avanti {
   font-size: 32px;
   font-family: "Wellbotth";
   color: #0E3DBE;
 }
 
-#miranda:hover {
+#avanti:hover {
   font-size: 32px;
   font-family: "Wellbotth";
   color: #23221E;
@@ -110,9 +102,9 @@ ul {
 .headline {
   font-family: "Wellbotth", "Poppins", sans-serif;
   /*font-size: 128px;*/
-  font-size: 20vw;
+  font-size: 15vw;
   /* float: left; */
-  margin-top: 10vh;
+  margin-top: 7.5vh;
 }
 
 .half-highlight {
