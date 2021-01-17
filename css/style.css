@@ -34,13 +34,13 @@ nav a:hover {
 }
 
 #avanti {
-  font-size: 32px;
+  font-size: 10px;
   font-family: "Poppins";
   color: #3B587D;
 }
 
 #avanti:hover {
-  font-size: 32px;
+  font-size: 10px;
   font-family: "Poppins";
   color: #0E1E33;
 }
@@ -106,7 +106,7 @@ ul {
 }
 
 .half-highlight {
-  background: linear-gradient(to top, #EAAC8B 30%, transparent 70%);
+  background: linear-gradient(to top, #80EACDC2 50%, transparent 50%);
 
 }
 
@@ -152,12 +152,12 @@ ul {
 
 #footer a {
   text-decoration: none;
-  color: #587A00;
+  color: #6D597A;
 }
 
 #footer a:hover {
   text-decoration: none;
-  color: #23221E;
+  color: #3F3347;
 }
 
 /* placeholder construction site text */
