@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Wellbotth";
-  src: url('../fonts/Aliters.ttf') format('truetype');
+  font-family: "highlights";
+  src: url('../fonts/Ansagia Metta.ttf') format('truetype');
 }
 
 /* body format */
@@ -100,7 +100,7 @@ ul {
 } */
 
 .headline {
-  font-family: "Wellbotth", "Poppins", sans-serif;
+  font-family: "highlights", "Poppins", sans-serif;
   /*font-size: 128px;*/
   font-size: 15vw;
   /* float: left; */
@@ -117,7 +117,7 @@ ul {
 }
 
 #big-asterisk {
-  font-family: Wellbotth;
+  font-family: highlights;
   font-weight: 700;
   color: #0E3DBE;
   font-size: 1.8vw;
