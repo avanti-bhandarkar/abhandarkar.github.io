@@ -129,15 +129,15 @@ ul {
 /* image formatting */
 #headshot {
   position: relative;
-  width: max(10vw, 25px);
+  width: max(20vw, 50px);
   /* height: 20%; */
   /* position: absolute; */
   float: right;
   /* top: 12vh;
   right: 10vw; */
-  margin-left: -0vw;
-  margin-right: -0vw;
-  margin-top: -30vh;
+  margin-left: -20vw;
+  margin-right: -20vw;
+  margin-top: -20vh;
   /* margin-top: -28vh; */
   z-index: -1;
 }
