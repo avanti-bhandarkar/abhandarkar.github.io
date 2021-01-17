@@ -24,25 +24,25 @@ nav {
 nav a {
   text-decoration: none;
   /* color: #23221E; */
-  color: #587A00;
+  color: #6D597A;
 }
 
 nav a:hover {
   text-decoration: none;
   /* color: #9F9F56; */
-  color: #23221E;
+  color: #3F3347;
 }
 
 #avanti {
   font-size: 32px;
   font-family: "Bondie";
-  color: #0E3DBE;
+  color: #3B587D;
 }
 
 #avanti:hover {
   font-size: 32px;
   font-family: "Bondie";
-  color: #23221E;
+  color: ##0E1E33;
 }
 
 .links {
@@ -87,12 +87,12 @@ ul {
 .body-text a {
   text-decoration: none;
   /* color: #0E3DBE; */
-  color: #E44E5D;
+  color: #B56576;
 }
 
 .body-text a:hover {
   text-decoration: none;
-  color: #EC838D;
+  color: #602E39;
 }
 
 /* .white-highlight {
@@ -105,7 +105,7 @@ ul {
 }
 
 .half-highlight {
-  background: linear-gradient(to top, #FFF185 50%, transparent 50%);
+  background: linear-gradient(to top, #EAAC8B 50%, transparent 50%);
 
 }
 
