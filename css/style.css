@@ -35,14 +35,14 @@ nav a:hover {
 
 #avanti {
   font-size: 32px;
-  font-family: "Bondie";
+  font-family: "Poppins";
   color: #3B587D;
 }
 
 #avanti:hover {
   font-size: 32px;
-  font-family: "Bondie";
-  color: ##0E1E33;
+  font-family: "Poppins";
+  color: #0E1E33;
 }
 
 .links {
@@ -101,11 +101,12 @@ ul {
 
 .headline {
   font-family: "Bondie", "Poppins", sans-serif;
+  font-size: 64px
   margin-top: 15vh;
 }
 
 .half-highlight {
-  background: linear-gradient(to top, #EAAC8B 50%, transparent 50%);
+  background: linear-gradient(to top, #EAAC8B 30%, transparent 70%);
 
 }
 
