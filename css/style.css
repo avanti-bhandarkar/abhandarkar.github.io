@@ -1,6 +1,6 @@
 @font-face {
-  font-family: "Bellmoco";
-  src: url('../fonts/Bellmoco Handcola.ttf') format('truetype');
+  font-family: "Bondie";
+  src: url('../fonts/Bondie.ttf') format('truetype');
 }
 
 /* body format */
@@ -35,13 +35,13 @@ nav a:hover {
 
 #avanti {
   font-size: 32px;
-  font-family: "Bellmoco";
+  font-family: "Bondie";
   color: #0E3DBE;
 }
 
 #avanti:hover {
   font-size: 32px;
-  font-family: "Bellmoco";
+  font-family: "Bondie";
   color: #23221E;
 }
 
@@ -100,8 +100,8 @@ ul {
 } */
 
 .headline {
-  font-family: "Bellmoco", "Poppins", sans-serif;
-  margin-top: 10vh;
+  font-family: "Bondie", "Poppins", sans-serif;
+  margin-top: 15vh;
 }
 
 .half-highlight {
@@ -114,7 +114,7 @@ ul {
 }
 
 #big-asterisk {
-  font-family: Bellmoco;
+  font-family: Bondie;
   font-weight: 700;
   color: #0E3DBE;
   font-size: 1.8vw;
