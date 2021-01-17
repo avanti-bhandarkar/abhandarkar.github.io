@@ -30,7 +30,7 @@ nav a {
 nav a:hover {
   text-decoration: none;
   /* color: #9F9F56; */
-  color: #00373D;
+  color: #80EACD;
 }
 
 #avanti {
@@ -117,7 +117,7 @@ ul {
 #big-asterisk {
   font-family: Bondie;
   font-weight: 700;
-  color: #0E3DBE;
+  color: #E29578;
   font-size: 1.8vw;
 }
 
