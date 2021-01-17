@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "highlights";
+  font-family: "Bagnard Sans";
   src: url('../fonts/BaltimareFont.ttf') format('truetype');
 }
 
@@ -33,15 +33,15 @@ nav a:hover {
   color: #23221E;
 }
 
-#avanti {
-  font-size: 16px;
-  font-family: "Poppins";
+#miranda {
+  font-size: 32px;
+  font-family: "Bagnard Sans";
   color: #0E3DBE;
 }
 
-#avanti:hover {
-  font-size: 16px;
-  font-family: "Poppins";
+#miranda:hover {
+  font-size: 32px;
+  font-family: "Bagnard Sans";
   color: #23221E;
 }
 
@@ -73,7 +73,7 @@ ul {
 }
 
 .main-content {
-  padding-top: 10vh;
+  padding-top: 15vh;
   width: 100%;
 }
 
@@ -100,11 +100,11 @@ ul {
 } */
 
 .headline {
-  font-family: "highlights", "Poppins", sans-serif;
-  /*font-size: 128px;*/
-  font-size: 10vw;
+  font-family: "Bagnard Sans", "Poppins", sans-serif;
+  /* font-size: 64px; */
+  font-size: 5vw;
   /* float: left; */
-  margin-top: 7.5vh;
+  margin-top: 15vh;
 }
 
 .half-highlight {
@@ -117,7 +117,7 @@ ul {
 }
 
 #big-asterisk {
-  font-family: highlights;
+  font-family: Bagnard Sans;
   font-weight: 700;
   color: #0E3DBE;
   font-size: 1.8vw;
