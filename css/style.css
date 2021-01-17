@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "WB";
+  font-family: "Wellbotth";
   src: url('../fonts/Wellbotth.ttf') format('truetype');
 }
 /* @font-face {
@@ -43,13 +43,13 @@ nav a:hover {
 
 #miranda {
   font-size: 32px;
-  font-family: "WB";
+  font-family: "Wellbotth";
   color: #0E3DBE;
 }
 
 #miranda:hover {
   font-size: 32px;
-  font-family: "WB";
+  font-family: "Wellbotth";
   color: #23221E;
 }
 
@@ -108,9 +108,9 @@ ul {
 } */
 
 .headline {
-  font-family: "WB", "Poppins", sans-serif;
-  font-size: 128px;
-  /*font-size: 15vw;*/
+  font-family: "Wellbotth", "Poppins", sans-serif;
+  /*font-size: 128px;*/
+  font-size: 20vw;
   /* float: left; */
   margin-top: 10vh;
 }
@@ -125,7 +125,7 @@ ul {
 }
 
 #big-asterisk {
-  font-family: WB;
+  font-family: Wellbotth;
   font-weight: 700;
   color: #0E3DBE;
   font-size: 1.8vw;
