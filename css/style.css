@@ -109,8 +109,8 @@ ul {
 
 .headline {
   font-family: "Tracker", "Poppins", sans-serif;
-  /* font-size: 64px; */
-  font-size: 15vw;
+  font-size: 128px;
+  /*font-size: 15vw;*/
   /* float: left; */
   margin-top: 15vh;
 }
