@@ -1,3 +1,3 @@
-Hi, this is Miranda's website.
+v1
 
-Hi Miranda, `sh deploy.sh` is probably what you're looking for.
+By Miranda Li
